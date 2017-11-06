@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteBase /berdahl
+RewriteRule personality_resume\.html resume_personality.html [R]
