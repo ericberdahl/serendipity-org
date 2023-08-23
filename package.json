@@ -1,0 +1,14 @@
+{
+  "name": "serendipity-org",
+  "version": "1.0.0",
+  "description": "serendipity.org web site",
+  "main": "deploy.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-tools": "^12.5.0"
+  }
+}

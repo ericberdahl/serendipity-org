@@ -1,2 +1,2 @@
 #!/bin/sh
-firebase deploy --only hosting
+npx firebase deploy --only hosting
